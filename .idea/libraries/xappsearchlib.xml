@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xappsearchlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/XAppSearchLib/bin/xappsearchlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/T9Search/bin/dexedLibs/android-support-v4-53fc0a337ec8c370b9998e1af50778db.jar!/" />
+      <root url="jar://$PROJECT_DIR$/T9Search/bin/dexedLibs/pinyin4j-2.5.0-f669c86e449ff2d610faeb0e065216f6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/T9Search/bin/dexedLibs/xappsearchlib-1d9c3b3b65a5c3619657270c14f12bd2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/T9Search/bin/dexedLibs/appcompat_v7-de87ca6d9cbefdfaa0e99d888117e56c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/T9Search/bin/dexedLibs/android-support-v7-appcompat-bcc5b18f0c24da1dc0e8fe254bdba3b6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

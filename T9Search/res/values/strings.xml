@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">T9搜索</string>
+    <string name="notification_title">T9搜索</string>
+   
+    <string name="notification_text">点击打开T9搜索</string>
+   
+    <string name="float_window">滑动（待开发）</string>
+    <string name="float_window_summary">从底部向上滑动打开T9搜索</string>
+    <string name="notification">通知栏</string>
+    <string name="notification_summary">点击通知触发T9搜索</string>
+    <string name="recent_apps">最近打开的软件</string>
+</resources>
